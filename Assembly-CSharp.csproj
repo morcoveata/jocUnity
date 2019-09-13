@@ -61,6 +61,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\FollowPlayer.cs" />
     <Compile Include="Assets\PlayerMovement.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/programare/unity/jocMircea/ProiectMircea/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
